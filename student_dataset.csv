@@ -1,0 +1,11 @@
+Student_ID,Department,Level,Attendance_Percentage,Average_Exam_Score
+CUL001,Computer Science,100,85,76
+CUL002,Cyber Security,200,90,84
+CUL003,Computer Science,300,78,69
+CUL004,Software Engineering,100,95,91
+CUL005,Cyber Security,200,82,73
+CUL006,Computer Science,300,88,80
+CUL007,Software Engineering,400,75,65
+CUL008,Cyber Security,100,92,88
+CUL009,Computer Science,200,80,72
+CUL010,Software Engineering,400,87,86
